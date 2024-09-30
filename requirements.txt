@@ -2,6 +2,7 @@ streamlit
 requests
 watchdog
 python-dotenv
+openai
 # streamlit-webrtc
 # ultralytics
 # opencv-python-headless
