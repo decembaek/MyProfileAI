@@ -1,0 +1,10 @@
+streamlit
+requests
+watchdog
+python-dotenv
+# streamlit-webrtc
+# ultralytics
+# opencv-python-headless
+# watchdog
+# emoji
+# st-pages
